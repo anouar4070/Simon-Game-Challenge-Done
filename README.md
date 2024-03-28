@@ -8,5 +8,5 @@
     An awesome project to start with JQuery!
  <br>
     
-     </p>
+   
 </div>
